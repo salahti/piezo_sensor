@@ -1,0 +1,1 @@
+arduino-cli upload -p COM10 --fqbn arduino:avr:nano Inband_timer_FW
