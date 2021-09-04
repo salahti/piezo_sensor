@@ -1,1 +1,1 @@
-arduino-cli upload -p COM10 --fqbn arduino:avr:nano Inband_timer_FW
+arduino-cli upload -p COM17 --fqbn arduino:avr:nano piezo_sensor_box

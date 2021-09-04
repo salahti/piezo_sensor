@@ -1,1 +1,1 @@
-arduino-cli compile --fqbn arduino:avr:nano -e Inband_timer_FW
+arduino-cli compile --fqbn arduino:avr:nano -e piezo_sensor_box

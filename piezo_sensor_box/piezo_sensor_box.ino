@@ -9,7 +9,7 @@ int piezo1=4; //piezo1 input pin
 int rel1_SET=7;
 int rel1_RESET=8;
 int timer=0; //timer that counts 0.1s
-int timer_limit=600; //time that relay is ON given as 10xseconds, i.e 100 means 10 seconds
+int timer_limit=3000; //time that relay is ON given as 10xseconds, 3000 equals 300 seconds equals 5 minutes
 bool rel1_status=false; //relay 1 status, True means relay is on
 
 // the setup function runs once when you press reset or power the board
